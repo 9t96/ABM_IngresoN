@@ -1,0 +1,47 @@
+﻿h1 {
+    color: #ff4646;
+    text-align: center;
+}
+
+.divTable {
+    margin-top: 20px;
+}
+
+.has-error{
+    border-color: red;
+}
+
+.has-success {
+    border-color: green;
+}
+
+.hasError {
+    color: red;
+}
+
+.estilosAlert
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.row{
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+
+body {
+    background-color: #efebbb;
+}
+
+th,td {
+    text-align: center;
+}
+
+.button-group{
+    margin-top:30px;
+}
+
+.formTerritorio {
+    margin-top: 40px;
+}

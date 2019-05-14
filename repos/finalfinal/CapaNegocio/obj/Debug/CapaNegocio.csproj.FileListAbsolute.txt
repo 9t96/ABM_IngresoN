@@ -1,0 +1,12 @@
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LaloPilu-Gpc\source\repos\finalfinal\CapaNegocio\obj\Debug\CapaNegocio.pdb
